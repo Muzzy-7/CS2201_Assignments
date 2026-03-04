@@ -50,7 +50,7 @@ def dfs(capA, capB, goal):
                 stack.append(state)
     print("No Solution Found")
 
-# Depth Limited Search (DFS with limit)
+# Depth Limited Search
 def dls(capA, capB, goal, limit):
     stack = [((0, 0), 0)]
     visited = set()
@@ -90,4 +90,5 @@ print("Goal:", goal)
 bfs(capA, capB, goal)
 dfs(capA, capB, goal)
 dls(capA, capB, goal, 5)
+
 iddfs(capA, capB, goal, 10)
