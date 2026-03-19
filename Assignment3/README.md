@@ -1,8 +1,8 @@
 # AI Assignment 3 - SEARCH ALGORITHMS
 
 # Contents
-1. [Dijkstra / Uniform Cost Search](#Dijkstra--uniform--Cost--search)
-2. [Unmanned Ground Vehicle path planning](#Unmanned--Ground--Vehicle--(UGV)--path--planning--using--A*)
+1. [Dijkstra / Uniform Cost Search](#Dijkstra-uniform-Cost-search)
+2. [Unmanned Ground Vehicle path planning](#Unmanned-Ground--Vehicle--(UGV)--path--planning--using--A*)
 3. [Dynamic UGC path planning](#Dynamic--UGV--Path--Planning--using--A*--Algorithm)
 
 ## Dijkstra / Uniform Cost Search
