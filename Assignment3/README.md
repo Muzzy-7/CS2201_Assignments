@@ -1,9 +1,9 @@
 # AI Assignment 3 - SEARCH ALGORITHMS
 
 # Contents
-1. [Dijkstra / Uniform Cost Search](#Dijkstra-uniform-Cost-search)
-2. [Unmanned Ground Vehicle path planning](#Unmanned-Ground--Vehicle--(UGV)--path--planning--using--A*)
-3. [Dynamic UGC path planning](#Dynamic--UGV--Path--Planning--using--A*--Algorithm)
+1. [Dijkstra / Uniform Cost Search](#Dijkstra-/-Uniform-Cost-Search)
+2. [Unmanned Ground Vehicle path planning](#Unmanned-Ground-Vehicle-(UGV)-path-planning-using-A*)
+3. [Dynamic UGC path planning](#Dynamic-UGV-Path-Planning-using-A*-Algorithm)
 
 ## Dijkstra / Uniform Cost Search
 
@@ -115,7 +115,7 @@ The grid is displayed using **matplotlib**
 <img width="638" height="638" alt="image" src="https://github.com/user-attachments/assets/e725b12b-a31f-4d3f-8cb9-ca24baaa2c75" />
 
 
-##  Dynamic UGV Path Planning using A* Algorithm
+## Dynamic UGV Path Planning using A* Algorithm
 
 ### Introduction
 
